@@ -1,0 +1,8 @@
+{
+  "name": "Jobsy Career Assistant",
+  "description": "A professional AI-powered career tool featuring Resume Matching, Aptitude Testing, and Interview Preparation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
